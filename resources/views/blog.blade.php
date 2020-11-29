@@ -9,7 +9,7 @@
 							<div class="post-category">
 								<a href="category.html">Gaya Hidup</a>
 							</div>
-							<h3 class="post-title title-lg"><a href="blog-post.html">if silence is gold</a></h3>
+							<h3 class="post-title title-lg"><a href="blog-post.html">if silence is gold.</a></h3>
 							<ul class="post-meta">
 								<li><a href="author.html">Rayn</a></li>
 								<li>2020 November 25</li>
@@ -26,7 +26,7 @@
 							<div class="post-category">
 								<a href="category.html">Gaya Hidup</a>
 							</div>
-							<h3 class="post-title"><a href="blog-post.html">nothing is completely white</a></h3>
+							<h3 class="post-title"><a href="blog-post.html">nothing is completely white.</a></h3>
 							<ul class="post-meta">
 								<li><a href="author.html">rynhdyt</a></li>
 								<li>2020 August 02</li>
